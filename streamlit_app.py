@@ -5,10 +5,10 @@
 # Importing requisite libraries
 import streamlit as st
 import pandas as pd
-import scikit-learn.model_selection as model_selection
-import scikit-learn.ensemble as ensemble
-import scikit-learn.neighbors as neighbors
-import scikit-learn.linear_model as linear_model
+import sklearn.model_selection as model_selection
+import sklearn.ensemble as ensemble
+import sklearn.neighbors as neighbors
+import sklearn.linear_model as linear_model
 
 # Page configuration
 st.set_page_config(
